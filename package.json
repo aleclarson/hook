@@ -1,17 +1,9 @@
 {
   "name": "hook",
   "version": "1.0.0",
-  "main": "./js/src/index",
+  "main": "./js/src/hook",
   "dependencies": {
     "emptyFunction": "aleclarson/emptyFunction#1.0.0",
-    "lotus-require": "aleclarson/lotus-require#1.0.0",
-    "steal": "aleclarson/steal#0.0.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aleclarson/hook.git"
-  },
-  "licenses": [
-    "MIT"
-  ]
+    "lotus-require": "aleclarson/lotus-require#1.0.0"
+  }
 }
