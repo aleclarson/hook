@@ -1,6 +1,4 @@
 
-require "lotus-require"
-
 emptyFunction = require "emptyFunction"
 
 shift = Array::shift

@@ -1,7 +1,5 @@
 var emptyFunction, hook, shift, unshift;
 
-require("lotus-require");
-
 emptyFunction = require("emptyFunction");
 
 shift = Array.prototype.shift;
