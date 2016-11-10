@@ -1,7 +1,7 @@
 {
   "name": "hook",
   "version": "1.0.0",
-  "main": "./js/src/hook",
+  "main": "js/hook",
   "plugins": [
     "lotus-coffee"
   ],
