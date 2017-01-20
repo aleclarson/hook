@@ -1,0 +1,8 @@
+{
+  "name": "hook",
+  "version": "1.0.0",
+  "main": "js/hook",
+  "dependencies": {
+    "emptyFunction": "aleclarson/emptyFunction#1.0.0"
+  }
+}
